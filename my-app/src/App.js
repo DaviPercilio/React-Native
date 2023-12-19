@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Initializing React
+         Initializing React, using vs code 
+         Iniciando React, usando vc code 
         </a>
       </header>
     </div>
